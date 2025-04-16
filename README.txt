@@ -25,4 +25,4 @@ A simple Python GUI tool for image encryption and decryption using pixel swappin
 6. Click **Save Image** to save the result.
 
 ## Author
-ProDigy Infotech
+Piyush Sharma
